@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='pejdgabdnpedaklglnohiadabghmdgdo'>
-    <updatecheck codebase='https://bjornb2001.github.io/chat-assistant-updates/chat-assistant-0.4.0.crx' version='0.4.0'/>
+    <updatecheck codebase='https://bjornb0316.github.io/chat-assistant-updates/chat-assistant-0.4.1.crx' version='0.4.1'/>
   </app>
 </gupdate>
